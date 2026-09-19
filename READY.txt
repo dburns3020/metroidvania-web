@@ -1,1 +1,7 @@
-godot-export
+Metroidvania JumpFix — Space after RESET
+
+Fix: RESET / ending buttons no longer steal keyboard focus.
+ui_accept no longer binds Space (Enter only).
+Click canvas releases GUI focus. Space/W/Up/Z jump.
+
+Hard-refresh + RESET, then Space should jump in Start Caverns.
