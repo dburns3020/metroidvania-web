@@ -1,1 +1,1 @@
-ClimbFix2 — Spire entrance lava cleared under climb shaft. Sat, 19 Sep 2026 20:56:06 -0400
+ClimbFix3 — bridged Spire pit + removed chamber kill spikes. Sat, 19 Sep 2026 21:02:12 -0400
