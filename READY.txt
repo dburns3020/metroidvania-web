@@ -1,1 +1,1 @@
-HD2D-fix — SkyFill was covering parallax (layer -20 over -100). Now -110. Sat, 19 Sep 2026 23:51:05 -0400
+HD2D3 — removed SkyFill; screen-space BG + lift; pck cache-bust index.hd2d3.pck
