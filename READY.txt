@@ -1,3 +1,1 @@
-Metroidvania — Freed Ruins (HD-2D parallax build)
-Exported: Godot 4.3 Web
-Features: caverns/spire painted ParallaxBackground crossfade, hot-red spikes from spire_interactables_v3
+HD2D-fix — SkyFill was covering parallax (layer -20 over -100). Now -110. Sat, 19 Sep 2026 23:51:05 -0400
