@@ -1,1 +1,1 @@
-JumpFix2 — floor snap + ground probe + raw-key jump buffer. Sat, 19 Sep 2026 18:54:10 -0400
+ClimbFix — Spire shaft unsealed + DJ platforms to CLIMB orb. Sat, 19 Sep 2026 20:52:56 -0400
